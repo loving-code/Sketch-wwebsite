@@ -1,0 +1,12 @@
+.body{
+    background-color: rgb(193, 216, 236);
+}
+#Score{
+font-size: medium;
+
+float: left;
+}
+
+#time{
+    float: right;
+}
